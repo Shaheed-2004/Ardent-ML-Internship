@@ -107,8 +107,5 @@ After working through this notebook, you'll understand:
 
 ## 👨‍💻 Author
 
-Created as an educational resource for machine learning beginners.
+Kazi Shaheed Rahman
 
----
-
-**Happy Learning! 🎓**
